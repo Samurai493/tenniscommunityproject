@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+}
+header{
+  text-align: center;
+}
+header a{
+  padding: 20px;
+  border: black 5px solid;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: white;
+  color: blue;
+}
+header a:hover{
+  background-color: grey;
+}
+header a:focus{
+  background-color: darkgrey;
+}
